@@ -1,0 +1,9 @@
+*.dat
+results/
+.vs/
+*sln
+*.exe
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.ilk
