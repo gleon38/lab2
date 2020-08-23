@@ -7,3 +7,5 @@ results/
 *.vcxproj.filters
 *.vcxproj.user
 *.ilk
+*.tlog
+*.idb
