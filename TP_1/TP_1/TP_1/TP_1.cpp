@@ -1,8 +1,10 @@
-
 #include <iostream>
 using namespace std;
+#include "funciones1.h"
 
 int main()
 {
-    cout << "Hello World!\n";
+    const int TAM = 3;
+    int vec[TAM];
+    cout <<calcularMenor(vec, TAM);
 }
